@@ -83,7 +83,7 @@
                         </button>
                     </legend>
                     <div id="schedule-items">
-                    <div class="schedule-item">
+                    <div class="schedule-item" id="schedule-item">
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
                                 <select name="weekday[]" required>
@@ -100,6 +100,11 @@
                              <div class="input-block">
                                 <label for="time_to">Até</label>
                                 <input name="time_to[]" type="time" required>
+                            </div>
+                            <div class="input-block">
+                                <button onclick="removeTime()" type="button">
+                                    X Remover
+                                </button>
                             </div>
                             </div>
                     </div>
@@ -119,5 +124,11 @@
        </main>
     </div>
     <script src="/scripts/addField.js"></script>
+    <script>
+        function removeTime() {
+        var field = document.getElementById("schedule-item");
+        field.remove(field);
+        }
+    </script>
 </body> 
 </html>
