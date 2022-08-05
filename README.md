@@ -15,7 +15,7 @@ Uma plataforma para alunos procurarem professores particulares e para professore
 Para experimenta-lo é bem simples:<br>
 -Clone o repositorio
 ```bash
-$ git clone https://github.com/julianofrodrigues/NLW-Starter-2
+$ git clone https://github.com/julianofrodrigues/Proffy-NodeJs
 ```
 Entre na pasta do projeto e instale suas dependencias
 ```bash
