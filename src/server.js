@@ -22,6 +22,6 @@ server.post('/save-classes', saveClasses)
 
 
 //Start Server
-server.listen(5500, console.log('Sou um com a força!'))
+server.listen(3000, console.log('Sou um com a força!'))
 
 

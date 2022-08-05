@@ -45,6 +45,6 @@ module.exports = async function(db, {proffyValue, classValue, classScheduleValue
                 );
             `)
         })
-        //Aqui vou executar todoso os dbr.run
+        //Aqui vou executar todos os dbr.run
         await Promise.all(insetedAllClassScheduleValues)
 }

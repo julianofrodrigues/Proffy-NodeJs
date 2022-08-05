@@ -3,9 +3,9 @@ const createProffy = require('./createProffy')
 Database.then(async (db)=>{
         //Inserir dados
         proffyValue = {
-            name: 'Liliane',
-            avatar: 'https://scontent.fstu5-1.fna.fbcdn.net/v/t1.0-9/41616362_122278575395512_5486921471982829568_n.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_ohc=50G6oelCf8cAX9Tbof0&_nc_ht=scontent.fstu5-1.fna&oh=d8d6d8ac9bf2d56ed2fa57ea028cd928&oe=5F535197',
-            whatsapp: '',
+            name: 'Juliano',
+            avatar: 'https://avatars.githubusercontent.com/u/46505899?v=4',
+            whatsapp: '(99) 99999-9999',
             bio: 'Amo Artes',
         }
 
