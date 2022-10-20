@@ -3,13 +3,22 @@
 # Resumo do projeto
 Uma plataforma para alunos procurarem professores particulares e para professores se cadastrarem.
 
-## Imagens do projeto abaixo 📘
-</p>
-<p align="center">
-<img src="https://i.imgur.com/3lf20bJ.png"/>
-<img src="https://i.imgur.com/7hbLKQp.png"/>
-<img src="https://i.imgur.com/cEllDdb.png"/>
-</p>
+## Layout 📘
+
+<p> O projeto é composto por 3 telas a home, cadastro de profesor e busca por professor.</p>
+<details> <summary> Clique Aqui para conferir prints das telas abaixo </summary>
+  <h2>Home</h2>
+  
+  ![Home](https://i.imgur.com/3lf20bJ.png) 
+  
+  <h2> Cadastro de professor </h2>
+  
+  ![Register](https://i.imgur.com/7hbLKQp.png) 
+  
+  <h2> Busca de professor </h2>
+  
+  ![Search](https://i.imgur.com/cEllDdb.png) 
+</details>
 
 ## 📁 Acesso ao projeto
 Para experimenta-lo é bem simples:<br>
